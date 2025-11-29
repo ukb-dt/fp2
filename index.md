@@ -1,6 +1,6 @@
 - [Data](https://ukb-dt.github.io/kWh-01/)/SQL
 - [Pipelines](https://ukb-dt.github.io/kWh-02/)/Azure
-- [GPUs](https://github.com/ukb-dt/inv-01/settings/pages)/CUDA
+- [GPUs](https://ukb-dt.github.io/inv-01/)/CUDA
 - Neural Nets/GPT
 - Intelligence/`+3000%` Nvidia MarketCap from 2020-2025
 
