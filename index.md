@@ -2,7 +2,7 @@
 - [Pipelines](https://ukb-dt.github.io/kWh-02/)/Azure
 - [GPUs](https://ukb-dt.github.io/inv-01/)/CUDA
 - [Neural Nets](https://ukb-dt.github.io/2-john-1-3/)/GPT
-- Intelligence/`+3000%` Nvidia MarketCap from 2020-2025
+- [Intelligence](https://ukb-dt.github.io/ilya-z/)/`+3000%` Nvidia MarketCap from 2020-2025
 
 Lean folks perhaps have GPU-biochemistry. Obese folks have CPU-biochemistry. Or is it that Lean folks eat less and obese forks are gluttonous?
 
